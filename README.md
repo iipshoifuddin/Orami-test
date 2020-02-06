@@ -10,5 +10,5 @@ Untuk menjalankannya :
 
 
 <div align="center">
-    <img src="./src/public/screenshots/result.jpg">
+    <img src="result.png">
 </div>
